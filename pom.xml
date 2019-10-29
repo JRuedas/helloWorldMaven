@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>es.upm.fi</groupId>
-	<artifactId>hello-maven</artifactId>
+	<artifactId>helloWorldMaven</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hello-maven Maven Webapp</name>
@@ -24,6 +24,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>hello-maven</finalName>
+		<finalName>helloWorldMaven</finalName>
 	</build>
 </project>
